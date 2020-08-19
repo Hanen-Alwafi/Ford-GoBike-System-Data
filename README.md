@@ -9,5 +9,9 @@ I will focus on these five questions. The first question is what the most day th
 
 
 
-##Summary:
+## Summary:
+
+
+
+
 In conclusion, we can see that people use the bike in workdays more than weekend days. Besides, the most day that people go for a ride is Thursday and Wednesday. Also, it seems that at the weekend people use the bike in a long time than the other days. It clear that the customer uses the bike more than people who have a subscriber. Also, we can conclude that the average duration of the rides is higher in customer than who have a subscriber. finally The best station was San Francisco Caltrain Station 2.
